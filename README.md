@@ -1,14 +1,14 @@
-# NutriMind AI 🔥
+# NutriMind AI 
 AI-Powered Smart Nutrition & Decision Engine
 
-## 🚀 Overview
+##  Overview
 NutriMind AI is an intelligent diet planning system that generates personalized meal plans based on user goals, pantry availability, health conditions, and budget constraints.
 
 Unlike traditional diet apps, this system uses a rule-based AI engine combined with decision logic to create adaptive, real-world meal plans.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - AI-driven meal plan generation  
 - Pantry-based smart recommendations  
@@ -24,7 +24,7 @@ Unlike traditional diet apps, this system uses a rule-based AI engine combined w
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User inputs:
    - Age, weight, goal (fat loss / gain / maintenance)
@@ -46,7 +46,7 @@ Unlike traditional diet apps, this system uses a rule-based AI engine combined w
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Streamlit (UI Framework)  
@@ -56,7 +56,7 @@ Unlike traditional diet apps, this system uses a rule-based AI engine combined w
 
 ---
 
-## 📊 System Capabilities
+##  System Capabilities
 
 - Dynamic calorie targeting (BMR + TDEE based)  
 - Meal-level macro distribution  
@@ -66,7 +66,7 @@ Unlike traditional diet apps, this system uses a rule-based AI engine combined w
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Personal diet planning  
 - Fitness meal planning  
@@ -76,7 +76,7 @@ Unlike traditional diet apps, this system uses a rule-based AI engine combined w
 
 ---
 
-## 💡 Key Highlight
+##  Key Highlight
 
 This project focuses on **real-world decision-making logic using AI principles**, not just static recommendations.
 
@@ -88,14 +88,14 @@ It demonstrates:
 
 ---
 
-## ⚠️ Note
+##  Note
 
 This project is focused on system design and logic implementation.  
 Full application code is not publicly shared.
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 - Real-time API integration  
 - Mobile application  
