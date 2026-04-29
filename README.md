@@ -100,4 +100,49 @@ Full application code is not publicly shared.
 - Real-time API integration  
 - Mobile application  
 - AI chat-based diet assistant  
-- Advanced personalization models  
+- Advanced personalization models
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87822bda-86ad-4a24-a13e-ff2d7665b366" width="700"/>
+</p>
+
+<p align="center"><b>Dashboard</b></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebd3cc8c-9e12-4904-a2a6-489e1cd44520" width="700"/>
+</p>
+
+<p align="center"><b>Pantry / Item List</b></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93059b3d-bdd6-43b6-a0fe-c3a44dbdefe2" width="700"/>
+</p>
+
+<p align="center"><b>Context & Mood Engine</b></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07b6a251-a190-481d-b956-39d521ef4876" width="500"/>
+</p>
+
+<p align="center"><b>Macro Controls</b></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8b3c89c-9f5d-4107-a754-a9ea878d08d0" width="700"/>
+</p>
+
+<p align="center"><b>Meal Generation Engine</b></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9746011a-fa3f-408d-900b-984978315593" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5567d080-621b-40ff-b6f5-120f00f6d931" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8e52a03-9769-48f6-b210-df085d18153e" width="700"/>
+</p>
+
+<p align="center"><b>Meal Plan Variations</b></p>
+
